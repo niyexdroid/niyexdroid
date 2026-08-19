@@ -1,4 +1,3 @@
-cat << 'TEMPLATE' > README.md
 
 <h1 align="center">Hi 👋, I'm Your Adegbola Adeniyi</h1>
 <p align="center">
@@ -81,4 +80,3 @@ A short description of your third project.
 <p align="center">
 ⭐ Thank you for visiting my profile! ⭐
 </p>
-TEMPLATE
