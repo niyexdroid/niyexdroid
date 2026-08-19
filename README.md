@@ -28,7 +28,7 @@ building real-world projects, and continuously improving my technical skills.
 </p>
 ---
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,claude,clerk,supabase,nodejs,git,github,linux,sentry,vscode,docker,aws" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,supabase,nodejs,git,github,linux,sentry,vscode,docker,aws" />
 </p>
 ---
 A short description of your first project.
