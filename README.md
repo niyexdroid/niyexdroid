@@ -35,9 +35,9 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, bu
 
 ## Projects
 
-- AssetHub — A short description of AssetHub. [Repository](https://github.com/niyexdroid/AssetHub)
-- UnityFund — A short description of UnityFund. [Repository](https://github.com/niyexdroid/UnityFund)
-- Project Three — A short description of project three. [Repository](https://github.com/niyexdroid/project-three)
+- Portfolio — My personal portfolio and blog. [Repository](https://github.com/niyexdroid/niyexdroid.github.io)
+- Phytosynth — Phytosynth Bioscience platform (bio/AI/data). [Repository](https://github.com/niyexdroid/phytosynth)
+- Promptopia — AI prompt sharing app. [Repository](https://github.com/niyexdroid/promtopia)
 
 ---
 
