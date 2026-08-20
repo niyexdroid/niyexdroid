@@ -45,6 +45,8 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, bu
 
 - Promptopia — AI prompt sharing and discovery web app that lets users create, share and explore curated AI prompts. [Repository](https://github.com/niyexdroid/promtopia)
 
+- UnityFund — A platform for community-driven funding and investments. [Repository](https://github.com/niyexdroid/UnityFund)
+
 ---
 
 If you have live demo URLs, screenshots, or short project images you'd like displayed, send them and I will add them beneath each project.
