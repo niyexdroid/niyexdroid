@@ -1,46 +1,50 @@
+<h1 align="center">Hi 👋, I'm Adegbola Adeniyi (niyexdroid)</h1>
 
-<h1 align="center">Hi 👋, I'm Your Adegbola Adeniyi</h1>
 <p align="center">
 <strong>Aspiring Cloud Engineer • Software Developer • Azure Administrator • DevOps Enthusiast</strong>
 </p>
+
 <p align="center">
-Welcome to my GitHub profile! I'm passionate about learning new technologies,
-building real-world projects, and continuously improving my technical skills.
+Welcome to my GitHub profile! I'm passionate about learning new technologies, building real-world projects, and continuously improving my technical skills.
 </p>
+
 ---
-- 🔭 I'm currently working on **AssetHub,UnityFund**
+
+- 🔭 I'm currently working on **AssetHub**, **UnityFund**
 - 🌱 I'm currently learning **AI Engineering Technology**
 - 🤝 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Programming, Cloud, AI, Linux, or DevOps**
 - 🎯 My goal is to become a **Cloud, AI & DevOps Engineer**
 - 📫 Reach me at **adeniyi.adegbola@niyexdroidtechnologies.com**
+
 ---
+
 <p align="center">
-<a href="https://github.com/niyexdroid">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-<a href="https://linkedin.com/in/niyexdroid">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-<a href="https://twitter.com/niyexdroid">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
+<a href="https://github.com/niyexdroid"><img src="https://skillicons.dev/icons?i=github" height="36"/></a>
+<a href="https://linkedin.com/in/niyexdroid"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>
+<a href="https://twitter.com/niyexdroid"><img src="https://skillicons.dev/icons?i=twitter" height="36"/></a>
 </p>
+
 ---
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,supabase,nodejs,git,github,linux,sentry,vscode,docker,aws" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,supabase,nodejs,git,github,linux,vscode,docker,aws" />
 </p>
+
 ---
-A short description of your first project.
-**Repository:** https://github.com/yourusername/project-one
+
+## Projects
+
+- AssetHub — A short description of AssetHub. [Repository](https://github.com/niyexdroid/AssetHub)
+- UnityFund — A short description of UnityFund. [Repository](https://github.com/niyexdroid/UnityFund)
+- Project Three — A short description of project three. [Repository](https://github.com/niyexdroid/project-three)
+
 ---
-A short description of your second project.
-**Repository:** https://github.com/yourusername/project-two
----
-A short description of your third project.
-**Repository:** https://github.com/yourusername/project-three
----
+
+## Certifications
+
 > Add your completed certifications below as you earn them.
+
 | Certification | Issuing Organization | Date | Credential |
 |---------------|----------------------|------|------------|
 | Microsoft Azure Fundamentals (AZ-900) | Microsoft | Jan 2026 | [View Credential](#) |
@@ -48,35 +52,47 @@ A short description of your third project.
 | Google Cloud Digital Leader | Google | Mar 2026 | [View Credential](#) |
 | Kubernetes and Cloud Native Associate (KCNA) | CNCF | Apr 2026 | [View Credential](#) |
 | *(Add more here)* | | | |
----
+
 <p align="center">
-<!-- Add badge images here -->
-<img src="images/az900.png" width="120"/>
-<img src="images/aws-cloud-practitioner.png" width="120"/>
-<img src="images/kcna.png" width="120"/>
-<img src="images/google-cloud.png" width="120"/>
+<!-- Badge images: make sure these files exist in /images or update paths -->
+<img src="images/az900.png" width="120" alt="AZ-900"/>
+<img src="images/aws-cloud-practitioner.png" width="120" alt="AWS Cloud Practitioner"/>
+<img src="images/kcna.png" width="120" alt="KCNA"/>
+<img src="images/google-cloud.png" width="120" alt="Google Cloud"/>
 </p>
+
 ---
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=niyexdroid&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyexdroid&layout=compact&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=niyexdroid&show_icons=true&theme=default" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyexdroid&layout=compact&theme=default" alt="Top languages"/>
 </p>
+
 ---
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=niyexdroid"/>
+<img src="https://streak-stats.demolab.com?user=niyexdroid" alt="Streak stats"/>
 </p>
+
 ---
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niyexdroid&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niyexdroid&theme=github-compact" alt="Activity graph"/>
 </p>
+
 ---
+
+## Goals
+
 - ✅ Build 10 real-world cloud projects
 - ✅ Contribute to Open Source
 - ✅ Earn Cloud Certifications
 - ✅ Learn Kubernetes
 - ✅ Improve Linux Skills
 - ✅ Land a Cloud Engineering Role
+
 ---
+
 <p align="center">
 ⭐ Thank you for visiting my profile! ⭐
 </p>
