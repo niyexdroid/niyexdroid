@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Adegbola%20Adeniyi%20(niyexdroid)&fontSize=40" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Adegbola Adeniyi (niyexdroid)</h1>
 
 <p align="center">
@@ -35,9 +39,15 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, bu
 
 ## Projects
 
-- Portfolio — My personal portfolio and blog. [Repository](https://github.com/niyexdroid/niyexdroid.github.io)
-- Phytosynth — Phytosynth Bioscience platform (bio/AI/data). [Repository](https://github.com/niyexdroid/phytosynth)
-- Promptopia — AI prompt sharing app. [Repository](https://github.com/niyexdroid/promtopia)
+- Portfolio — My personal portfolio and blog showcasing projects, case studies, and contact info. Live: (see repo). [Repository](https://github.com/niyexdroid/niyexdroid.github.io)
+
+- Phytosynth — Phytosynth Bioscience platform combining biotechnology, AI, and data science to deliver solutions for sustainable agriculture and climate resilience. [Repository](https://github.com/niyexdroid/phytosynth)
+
+- Promptopia — AI prompt sharing and discovery web app that lets users create, share and explore curated AI prompts. [Repository](https://github.com/niyexdroid/promtopia)
+
+---
+
+If you have live demo URLs, screenshots, or short project images you'd like displayed, send them and I will add them beneath each project.
 
 ---
 
@@ -64,8 +74,8 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, bu
 ---
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=niyexdroid&show_icons=true&theme=default" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyexdroid&layout=compact&theme=default" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=niyexdroid&show_icons=true&theme=radical" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyexdroid&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ---
