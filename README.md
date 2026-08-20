@@ -39,17 +39,73 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, bu
 
 ## Projects
 
-- Portfolio — My personal portfolio and blog showcasing projects, case studies, and contact info. Live: (see repo). [Repository](https://github.com/niyexdroid/niyexdroid.github.io)
-
-- Phytosynth — Phytosynth Bioscience platform combining biotechnology, AI, and data science to deliver solutions for sustainable agriculture and climate resilience. [Repository](https://github.com/niyexdroid/phytosynth)
-
-- Promptopia — AI prompt sharing and discovery web app that lets users create, share and explore curated AI prompts. [Repository](https://github.com/niyexdroid/promtopia)
-
-- UnityFund — A platform for community-driven funding and investments. [Repository](https://github.com/niyexdroid/UnityFund)
+<!-- Featured project: UnityFund -->
+<div align="center">
+  <h2>Featured project — UnityFund</h2>
+  <a href="https://github.com/niyexdroid/UnityFund">
+    <img src="https://via.placeholder.com/800x200.png?text=UnityFund+Featured" alt="UnityFund featured" width="800" />
+  </a>
+  <p style="max-width:800px; margin: 8px auto;">UnityFund — A platform for community-driven funding and investments. Built to help communities pool resources and manage investments transparently.</p>
+  <p>
+    <a href="https://github.com/niyexdroid/UnityFund"><img src="https://img.shields.io/badge/Repo-GitHub-181717?logo=github&style=flat" alt="Repo"/></a>
+    <a href="https://github.com/niyexdroid/UnityFund"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat" alt="Live demo (placeholder)"/></a>
+    <a href="https://github.com/niyexdroid/UnityFund"><img src="https://img.shields.io/badge/Screenshot-blue?style=flat" alt="Screenshot placeholder"/></a>
+  </p>
+</div>
 
 ---
 
-If you have live demo URLs, screenshots, or short project images you'd like displayed, send them and I will add them beneath each project.
+<!-- Other projects -->
+
+### Portfolio
+
+Personal portfolio & blog showcasing projects, case studies, and contact info.
+
+[Repository](https://github.com/niyexdroid/niyexdroid.github.io)
+
+<p align="center">
+  <a href="https://github.com/niyexdroid/niyexdroid.github.io"><img src="https://img.shields.io/badge/Repo-GitHub-181717?logo=github&style=flat" alt="Repo"/></a>
+  <a href="https://github.com/niyexdroid/niyexdroid.github.io"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat" alt="Live demo (placeholder)"/></a>
+  <a href="https://github.com/niyexdroid/niyexdroid.github.io"><img src="https://img.shields.io/badge/Screenshot-blue?style=flat" alt="Screenshot placeholder"/></a>
+</p>
+
+![Portfolio screenshot](https://via.placeholder.com/600x200.png?text=Portfolio+Screenshot)
+
+---
+
+### Phytosynth
+
+Phytosynth — A bio/AI/data platform delivering solutions for sustainable agriculture, climate resilience, and smarter farm analytics.
+
+[Repository](https://github.com/niyexdroid/phytosynth)
+
+<p align="center">
+  <a href="https://github.com/niyexdroid/phytosynth"><img src="https://img.shields.io/badge/Repo-GitHub-181717?logo=github&style=flat" alt="Repo"/></a>
+  <a href="https://github.com/niyexdroid/phytosynth"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat" alt="Live demo (placeholder)"/></a>
+  <a href="https://github.com/niyexdroid/phytosynth"><img src="https://img.shields.io/badge/Screenshot-blue?style=flat" alt="Screenshot placeholder"/></a>
+</p>
+
+![Phytosynth screenshot](https://via.placeholder.com/600x200.png?text=Phytosynth+Screenshot)
+
+---
+
+### Promptopia
+
+Promptopia — AI prompt sharing and discovery app that lets users create, share, and explore curated AI prompts.
+
+[Repository](https://github.com/niyexdroid/promtopia)
+
+<p align="center">
+  <a href="https://github.com/niyexdroid/promtopia"><img src="https://img.shields.io/badge/Repo-GitHub-181717?logo=github&style=flat" alt="Repo"/></a>
+  <a href="https://github.com/niyexdroid/promtopia"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat" alt="Live demo (placeholder)"/></a>
+  <a href="https://github.com/niyexdroid/promtopia"><img src="https://img.shields.io/badge/Screenshot-blue?style=flat" alt="Screenshot placeholder"/></a>
+</p>
+
+![Promptopia screenshot](https://via.placeholder.com/600x200.png?text=Promptopia+Screenshot)
+
+---
+
+If you have live demo URLs or screenshots you'd like used, send them and I'll replace the placeholders with the real assets.
 
 ---
 
