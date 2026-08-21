@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Adegbola Adeniyi (niyexdroid)</h1>
 
 <p align="center">
-<strong>Aspiring Cloud Engineer • Software Developer • Azure Administrator • DevOps Enthusiast</strong>
+<strong>Cloud Engineer • Software Developer • Azure Administrator • DevOps Engineer</strong>
 </p>
 
 <p align="center">
