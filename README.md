@@ -167,7 +167,6 @@ If you have live demo URLs or screenshots you'd like used, send them and I'll re
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=niyexdroid&show_icons=true&theme=radical" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyexdroid&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ---
@@ -178,11 +177,6 @@ If you have live demo URLs or screenshots you'd like used, send them and I'll re
 
 ---
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niyexdroid&theme=github-compact" alt="Activity graph"/>
-</p>
-
----
 
 ## Goals
 
