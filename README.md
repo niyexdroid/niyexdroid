@@ -116,18 +116,18 @@ If you have live demo URLs or screenshots you'd like used, send them and I'll re
   
   | | | |
   |:---:|:---:|:---:|
-  | ![Cloud Security](https://img.shields.io/badge/☁️%20Cloud%20Security-Get%20Started-0078D4?style=for-the-badge) | ![Secure%20Access](https://img.shields.io/badge/🔐%20Secure%20Access-Azure%20Networking-0078D4?style=for-the-badge) | ![AI%20Development](https://img.shields.io/badge/🤖%20AI%20Development-GitHub%20Copilot-0078D4?style=for-the-badge) |
-  | Get started with cloud security and monitoring tasks | Configure secure access to your workloads using Azure networking | Accelerate AI-assisted development by using GitHub Copilot |
+  | [![Cloud Security](https://img.shields.io/badge/☁️%20Cloud%20Security-Get%20Started-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/74B41B0626DFAAA6?sharingId=2B92CF25E3414442) | [![Secure Access](https://img.shields.io/badge/🔐%20Secure%20Access-Azure%20Networking-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/1CB13D0C7D7DE6B6?sharingId=2B92CF25E3414442) | [![AI Development](https://img.shields.io/badge/🤖%20AI%20Development-GitHub%20Copilot-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/E2177E39AA33E8B?sharingId=2B92CF25E3414442) |
+  | [Get started with cloud security and monitoring tasks](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/74B41B0626DFAAA6?sharingId=2B92CF25E3414442) | [Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/1CB13D0C7D7DE6B6?sharingId=2B92CF25E3414442) | [Accelerate AI-assisted development by using GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/E2177E39AA33E8B?sharingId=2B92CF25E3414442) |
   
   | | | |
   |:---:|:---:|:---:|
-  | ![Azure%20Management](https://img.shields.io/badge/📊%20Azure%20Management-Get%20Started-0078D4?style=for-the-badge) | ![Storage%20Security](https://img.shields.io/badge/💾%20Storage%20Security-Files%20&%20Blob-0078D4?style=for-the-badge) | ![Identity%20Access](https://img.shields.io/badge/🔑%20Identity%20&%20Access-Microsoft%20Entra-0078D4?style=for-the-badge) |
-  | Get started with Azure management tasks | Secure storage for Azure Files and Azure Blob Storage | Get started with identities and access using Microsoft Entra |
+  | [![Azure Management](https://img.shields.io/badge/📊%20Azure%20Management-Get%20Started-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/183E99ECB8E1679E?sharingId=2B92CF25E3414442) | [![Storage Security](https://img.shields.io/badge/💾%20Storage%20Security-Files%20&%20Blob-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/FD2EEC0BB4C7E237?sharingId=2B92CF25E3414442) | [![Identity Access](https://img.shields.io/badge/🔑%20Identity%20&%20Access-Microsoft%20Entra-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdegbolaAdeniyiRaheem-8822/E99ED341DE9ABD75?sharingId=88D1B325C04BED10) |
+  | [Get started with Azure management tasks](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/183E99ECB8E1679E?sharingId=2B92CF25E3414442) | [Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/FD2EEC0BB4C7E237?sharingId=2B92CF25E3414442) | [Get started with identities and access using Microsoft Entra](https://learn.microsoft.com/api/credentials/share/en-us/AdegbolaAdeniyiRaheem-8822/E99ED341DE9ABD75?sharingId=88D1B325C04BED10) |
   
   | | |
   |:---:|:---:|
-  | ![Active%20Directory](https://img.shields.io/badge/🏢%20Active%20Directory-Domain%20Services-0078D4?style=for-the-badge) | |
-  | Administer Active Directory Domain Services | |
+  | [![Active Directory](https://img.shields.io/badge/🏢%20Active%20Directory-Domain%20Services-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/D734E8ABF913FCC4?sharingId=2B92CF25E3414442) | |
+  | [Administer Active Directory Domain Services](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/D734E8ABF913FCC4?sharingId=2B92CF25E3414442) | |
 
 </div>
 
@@ -139,13 +139,13 @@ If you have live demo URLs or screenshots you'd like used, send them and I'll re
 
 ### Professional Certifications
 
-| Certification | Issuing Organization | Status |
-|:---|:---:|:---:|
-| **OPSWAT Cybersecurity Fundamentals Associate** | OPSWAT Academy | ✅ Completed |
-| **Play It Safe: Manage Security Risks** | Google | ✅ Completed |
-| **Kubernetes and Cloud Native Essentials (LFS250)** | The Linux Foundation | ✅ Completed |
-| **Kubernetes and Cloud Native Associate (KCNA)** | The Linux Foundation + Andela | ✅ Completed |
-| **Cisco Networking Academy Learn-A-Thon 2026** | Cisco | ✅ Completed |
+| Certification | Issuing Organization | Status | Credential |
+|:---|:---:|:---:|:---:|
+| **OPSWAT Cybersecurity Fundamentals Associate** | OPSWAT Academy | ✅ Completed | [View Credential](https://learn.opswatacademy.com/certificate/e7NUnxGHVA) |
+| **Play It Safe: Manage Security Risks** | Google | ✅ Completed | [View Credential](https://www.coursera.org/account/accomplishments/verify/U4CGAVA2Z2MG) |
+| **Kubernetes and Cloud Native Essentials (LFS250)** | The Linux Foundation | ✅ Completed | [View Credential](https://www.credly.com/badges/9102524e-5d85-4df9-bc93-4e6b664ac0eb/public_url) |
+| **Kubernetes and Cloud Native Associate (KCNA)** | The Linux Foundation + Andela | ✅ Completed | [View Credential](https://trainingportal.linuxfoundation.org/learn/certificates/455618?id=05069c25-9257-426b-89fc-222a26ce5258&client=andela-2026) |
+| **Cisco Networking Academy Learn-A-Thon 2026** | Cisco | ✅ Completed | [View Credential](https://www.credly.com/badges/e44b5b03-ea73-49e7-bd4e-ceec72717021/public_url) |
 
 ### In Progress / Planned
 
