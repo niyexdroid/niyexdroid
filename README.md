@@ -123,17 +123,17 @@ If you have live demo URLs or screenshots you'd like used, send them and I'll re
 |:---:|:---:|:---:|
 | [![Azure Storage](https://img.shields.io/badge/💾%20Azure%20Storage-Secure%20Storage-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/FD2EEC0BB4C7E237?sharingId=2B92CF25E3414442) | [![Microsoft Entra](https://img.shields.io/badge/🏢%20Microsoft%20Entra-Identities%20%26%20Access-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdegbolaAdeniyiRaheem-8822/E99ED341DE9ABD75?sharingId=88D1B325C04BED10) | [![Active Directory](https://img.shields.io/badge/🔐%20Active%20Directory-Domain%20Services-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/D734E8ABF913FCC4?sharingId=2B92CF25E3414442) |
 
-### Applied Skills Details
+### Skill Details
 
-| # | Skill | Description | Credential Link |
-|:---:|:---|:---|:---|
-| 1 | **☁️ Cloud Security** | Get started with cloud security and monitoring tasks | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/74B41B0626DFAAA6?sharingId=2B92CF25E3414442) |
-| 2 | **🔒 Azure Networking** | Configure secure access to your workloads using Azure networking | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/1CB13D0C7D7DE6B6?sharingId=2B92CF25E3414442) |
-| 3 | **✨ GitHub Copilot** | Accelerate AI-assisted development by using GitHub Copilot | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/E2177E39AA33E8B?sharingId=2B92CF25E3414442) |
-| 4 | **📊 Azure Management** | Get started with Azure management tasks | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/183E99ECB8E1679E?sharingId=2B92CF25E3414442) |
-| 5 | **💾 Azure Storage** | Secure storage for Azure Files and Azure Blob Storage | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/FD2EEC0BB4C7E237?sharingId=2B92CF25E3414442) |
-| 6 | **🏢 Microsoft Entra** | Get started with identities and access using Microsoft Entra | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdegbolaAdeniyiRaheem-8822/E99ED341DE9ABD75?sharingId=88D1B325C04BED10) |
-| 7 | **🔐 Active Directory** | Administer Active Directory Domain Services | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/D734E8ABF913FCC4?sharingId=2B92CF25E3414442) |
+| # | Credential | Link |
+|:---:|:---|:---|
+| 1 | Get started with cloud security and monitoring tasks | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/74B41B0626DFAAA6?sharingId=2B92CF25E3414442) |
+| 2 | Configure secure access to your workloads using Azure networking | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/1CB13D0C7D7DE6B6?sharingId=2B92CF25E3414442) |
+| 3 | Accelerate AI-assisted development by using GitHub Copilot | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/E2177E39AA33E8B?sharingId=2B92CF25E3414442) |
+| 4 | Get started with Azure management tasks | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/183E99ECB8E1679E?sharingId=2B92CF25E3414442) |
+| 5 | Secure storage for Azure Files and Azure Blob Storage | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/FD2EEC0BB4C7E237?sharingId=2B92CF25E3414442) |
+| 6 | Get started with identities and access using Microsoft Entra | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdegbolaAdeniyiRaheem-8822/E99ED341DE9ABD75?sharingId=88D1B325C04BED10) |
+| 7 | Administer Active Directory Domain Services | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/D734E8ABF913FCC4?sharingId=2B92CF25E3414442) |
 
 </div>
 
