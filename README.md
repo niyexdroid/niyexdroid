@@ -43,9 +43,9 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, bu
 <div align="center">
   <h2>Featured project — UnityFund</h2>
   <a href="https://github.com/niyexdroid/UnityFund">
-    <img src="https://via.placeholder.com/800x200.png?text=UnityFund+Featured" alt="UnityFund featured" width="800" />
+    <img src="screenshots/unityfund%20page.png" alt="UnityFund featured" width="800" />
   </a>
-  <p style="max-width:800px; margin: 8px auto;">UnityFund — A platform for community-driven funding and investments. Built to help communities pool resources and manage investments transparently.</p>
+  <p style="max-width:800px; margin: 8px auto;">UnityFund — A platform for community-driven funding and investments. Built to help communities pool resources and manage investments transparently[...]
   <p>
     <a href="https://github.com/niyexdroid/UnityFund"><img src="https://img.shields.io/badge/Repo-GitHub-181717?logo=github&style=flat" alt="Repo"/></a>
     <a href="https://github.com/niyexdroid/UnityFund"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat" alt="Live demo (placeholder)"/></a>
@@ -69,7 +69,7 @@ Personal portfolio & blog showcasing projects, case studies, and contact info.
   <a href="https://github.com/niyexdroid/niyexdroid.github.io"><img src="https://img.shields.io/badge/Screenshot-blue?style=flat" alt="Screenshot placeholder"/></a>
 </p>
 
-![Portfolio screenshot](https://via.placeholder.com/600x200.png?text=Portfolio+Screenshot)
+![Portfolio screenshot](screenshots/portfolio%20page.png)
 
 ---
 
@@ -85,7 +85,7 @@ Phytosynth — A bio/AI/data platform delivering solutions for sustainable agric
   <a href="https://github.com/niyexdroid/phytosynth"><img src="https://img.shields.io/badge/Screenshot-blue?style=flat" alt="Screenshot placeholder"/></a>
 </p>
 
-![Phytosynth screenshot](https://via.placeholder.com/600x200.png?text=Phytosynth+Screenshot)
+![Phytosynth screenshot](screenshots/phytosynth%20page.png)
 
 ---
 
@@ -101,7 +101,7 @@ Promptopia — AI prompt sharing and discovery app that lets users create, share
   <a href="https://github.com/niyexdroid/promtopia"><img src="https://img.shields.io/badge/Screenshot-blue?style=flat" alt="Screenshot placeholder"/></a>
 </p>
 
-![Promptopia screenshot](https://via.placeholder.com/600x200.png?text=Promptopia+Screenshot)
+![Promptopia screenshot](screenshots/Promptopia%20Page.png)
 
 ---
 
