@@ -109,25 +109,53 @@ If you have live demo URLs or screenshots you'd like used, send them and I'll re
 
 ---
 
+## Microsoft Applied Skills
+
+<div align="center">
+  <h3>Cloud Security & Development</h3>
+  
+  | | | |
+  |:---:|:---:|:---:|
+  | ![Cloud Security](https://img.shields.io/badge/☁️%20Cloud%20Security-Get%20Started-0078D4?style=for-the-badge) | ![Secure%20Access](https://img.shields.io/badge/🔐%20Secure%20Access-Azure%20Networking-0078D4?style=for-the-badge) | ![AI%20Development](https://img.shields.io/badge/🤖%20AI%20Development-GitHub%20Copilot-0078D4?style=for-the-badge) |
+  | Get started with cloud security and monitoring tasks | Configure secure access to your workloads using Azure networking | Accelerate AI-assisted development by using GitHub Copilot |
+  
+  | | | |
+  |:---:|:---:|:---:|
+  | ![Azure%20Management](https://img.shields.io/badge/📊%20Azure%20Management-Get%20Started-0078D4?style=for-the-badge) | ![Storage%20Security](https://img.shields.io/badge/💾%20Storage%20Security-Files%20&%20Blob-0078D4?style=for-the-badge) | ![Identity%20Access](https://img.shields.io/badge/🔑%20Identity%20&%20Access-Microsoft%20Entra-0078D4?style=for-the-badge) |
+  | Get started with Azure management tasks | Secure storage for Azure Files and Azure Blob Storage | Get started with identities and access using Microsoft Entra |
+  
+  | | |
+  |:---:|:---:|
+  | ![Active%20Directory](https://img.shields.io/badge/🏢%20Active%20Directory-Domain%20Services-0078D4?style=for-the-badge) | |
+  | Administer Active Directory Domain Services | |
+
+</div>
+
+---
+
 ## Certifications
 
-> Add your completed certifications below as you earn them.
+<div align="center">
 
-| Certification | Issuing Organization | Date | Credential |
-|---------------|----------------------|------|------------|
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Jan 2026 | [View Credential](#) |
-| AWS Cloud Practitioner | AWS | Feb 2026 | [View Credential](#) |
-| Google Cloud Digital Leader | Google | Mar 2026 | [View Credential](#) |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF | Apr 2026 | [View Credential](#) |
-| *(Add more here)* | | | |
+### Professional Certifications
 
-<p align="center">
-<!-- Badge images: make sure these files exist in /images or update paths -->
-<img src="images/az900.png" width="120" alt="AZ-900"/>
-<img src="images/aws-cloud-practitioner.png" width="120" alt="AWS Cloud Practitioner"/>
-<img src="images/kcna.png" width="120" alt="KCNA"/>
-<img src="images/google-cloud.png" width="120" alt="Google Cloud"/>
-</p>
+| Certification | Issuing Organization | Status |
+|:---|:---:|:---:|
+| **OPSWAT Cybersecurity Fundamentals Associate** | OPSWAT Academy | ✅ Completed |
+| **Play It Safe: Manage Security Risks** | Google | ✅ Completed |
+| **Kubernetes and Cloud Native Essentials (LFS250)** | The Linux Foundation | ✅ Completed |
+| **Kubernetes and Cloud Native Associate (KCNA)** | The Linux Foundation + Andela | ✅ Completed |
+| **Cisco Networking Academy Learn-A-Thon 2026** | Cisco | ✅ Completed |
+
+### In Progress / Planned
+
+| Certification | Issuing Organization | Target Date |
+|:---|:---:|:---:|
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Jan 2026 |
+| AWS Cloud Practitioner | AWS | Feb 2026 |
+| Google Cloud Digital Leader | Google | Mar 2026 |
+
+</div>
 
 ---
 
