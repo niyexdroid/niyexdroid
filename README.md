@@ -112,22 +112,20 @@ If you have live demo URLs or screenshots you'd like used, send them and I'll re
 ## Microsoft Applied Skills
 
 <div align="center">
-  <h3>Cloud Security & Development</h3>
-  
-  | | | |
-  |:---:|:---:|:---:|
-  | [![Cloud Security](https://img.shields.io/badge/☁️%20Cloud%20Security-Get%20Started-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-90[...]
-  | [Get started with cloud security and monitoring tasks](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/74B41B0626DFAAA6?sharingId=2B92CF25E3414442) | [Configure s[...]
-  
-  | | | |
-  |:---:|:---:|:---:|
-  | [![Azure Management](https://img.shields.io/badge/📊%20Azure%20Management-Get%20Started-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-[...]
-  | [Get started with Azure management tasks](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/183E99ECB8E1679E?sharingId=2B92CF25E3414442) | [Secure storage for Azure[...]
-  
-  | | |
-  |:---:|:---:|
-  | [![Active Directory](https://img.shields.io/badge/🏢%20Active%20Directory-Domain%20Services-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegb[...]
-  | [Administer Active Directory Domain Services](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/D734E8ABF913FCC4?sharingId=2B92CF25E3414442) | |
+
+### ☁️ Cloud Security & Development
+
+| | | |
+|:---:|:---:|:---:|
+| [![Cloud Security](https://img.shields.io/badge/☁️%20Cloud%20Security-Get%20Started-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/74B41B0626DFAAA6?sharingId=2B92CF25E3414442) | [![Azure Management](https://img.shields.io/badge/📊%20Azure%20Management-Get%20Started-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/183E99ECB8E1679E?sharingId=2B92CF25E3414442) | [![Active Directory](https://img.shields.io/badge/🏢%20Active%20Directory-Domain%20Services-0078D4?style=for-the-badge)](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/D734E8ABF913FCC4?sharingId=2B92CF25E3414442) |
+
+### Skill Details
+
+| Skill | Description | Credential Link |
+|:---|:---|:---|
+| **☁️ Cloud Security** | Get started with cloud security and monitoring tasks | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/74B41B0626DFAAA6?sharingId=2B92CF25E3414442) |
+| **📊 Azure Management** | Get started with Azure management tasks | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/183E99ECB8E1679E?sharingId=2B92CF25E3414442) |
+| **🏢 Active Directory** | Administer Active Directory Domain Services | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/AdeniyiAdegbola-9053/D734E8ABF913FCC4?sharingId=2B92CF25E3414442) |
 
 </div>
 
@@ -144,7 +142,7 @@ If you have live demo URLs or screenshots you'd like used, send them and I'll re
 | **OPSWAT Cybersecurity Fundamentals Associate** | OPSWAT Academy | ✅ Completed | [View Credential](https://learn.opswatacademy.com/certificate/e7NUnxGHVA) |
 | **Play It Safe: Manage Security Risks** | Google | ✅ Completed | [View Credential](https://www.coursera.org/account/accomplishments/verify/U4CGAVA2Z2MG) |
 | **Kubernetes and Cloud Native Essentials (LFS250)** | The Linux Foundation | ✅ Completed | [View Credential](https://www.credly.com/badges/9102524e-5d85-4df9-bc93-4e6b664ac0eb/public_url) |
-| **Kubernetes and Cloud Native Associate (KCNA)** | The Linux Foundation + Andela | ✅ Completed | [View Credential](https://trainingportal.linuxfoundation.org/learn/certificates/455618?id=0506[...]
+| **Kubernetes and Cloud Native Associate (KCNA)** | The Linux Foundation + Andela | ✅ Completed | [View Credential](https://trainingportal.linuxfoundation.org/learn/certificates/455618?id=0506d31f-58b9-4a6b-b9f5-6a0e4f4d8c9b) |
 | **Cisco Networking Academy Learn-A-Thon 2026** | Cisco | ✅ Completed | [View Credential](https://www.credly.com/badges/e44b5b03-ea73-49e7-bd4e-ceec72717021/public_url) |
 
 ### In Progress / Planned
