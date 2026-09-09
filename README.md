@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, bu
 <div align="center">
   <h2>Featured project — UnityFund</h2>
   <a href="https://github.com/niyexdroid/UnityFund">
-    <img src="screenshots/unityfund%20page.png" alt="UnityFund featured" width="800" />
+    <img src="https://raw.githubusercontent.com/niyexdroid/niyexdroid/main/screenshots/unityfund%20page.png" alt="UnityFund featured" width="800" />
   </a>
   <p style="max-width:800px; margin: 8px auto;">UnityFund — A platform for community-driven funding and investments. Built to help communities pool resources and manage investments transparently[...]
   <p>
@@ -69,7 +69,7 @@ Personal portfolio & blog showcasing projects, case studies, and contact info.
   <a href="https://github.com/niyexdroid/niyexdroid.github.io"><img src="https://img.shields.io/badge/Screenshot-blue?style=flat" alt="Screenshot placeholder"/></a>
 </p>
 
-![Portfolio screenshot](screenshots/portfolio%20page.png)
+![Portfolio screenshot](https://raw.githubusercontent.com/niyexdroid/niyexdroid/main/screenshots/portfolio%20page.png)
 
 ---
 
@@ -85,7 +85,7 @@ Phytosynth — A bio/AI/data platform delivering solutions for sustainable agric
   <a href="https://github.com/niyexdroid/phytosynth"><img src="https://img.shields.io/badge/Screenshot-blue?style=flat" alt="Screenshot placeholder"/></a>
 </p>
 
-![Phytosynth screenshot](screenshots/phytosynth%20page.png)
+![Phytosynth screenshot](https://raw.githubusercontent.com/niyexdroid/niyexdroid/main/screenshots/phytosynth%20page.png)
 
 ---
 
@@ -101,7 +101,7 @@ Promptopia — AI prompt sharing and discovery app that lets users create, share
   <a href="https://github.com/niyexdroid/promtopia"><img src="https://img.shields.io/badge/Screenshot-blue?style=flat" alt="Screenshot placeholder"/></a>
 </p>
 
-![Promptopia screenshot](screenshots/Promptopia%20Page.png)
+![Promptopia screenshot](https://raw.githubusercontent.com/niyexdroid/niyexdroid/main/screenshots/Promptopia%20Page.png)
 
 ---
 
