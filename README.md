@@ -165,11 +165,6 @@ If you have live demo URLs or screenshots you'd like used, send them and I'll re
 
 ---
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=niyexdroid&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
-
----
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=niyexdroid" alt="Streak stats"/>
